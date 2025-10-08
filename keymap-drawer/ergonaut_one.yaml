@@ -26,7 +26,7 @@ layers:
   - {t: O, h: RIGHT CONTROL}
   - ''
   - ''
-  - {t: Z, h: BASE}
+  - {t: Z, h: button}
   - X
   - C
   - D
@@ -35,14 +35,14 @@ layers:
   - H
   - ','
   - .
-  - {t: /, h: BASE}
+  - {t: /, h: button}
   - ''
-  - {t: ESCAPE, h: BASE}
+  - {t: ESCAPE, h: media}
   - {t: BACKSPACE, h: nav}
   - {t: ↹, h: mouse}
-  - {t: ENTER, h: BASE}
-  - {t: ␣, h: BASE}
-  - {t: ⌦, h: BASE}
+  - {t: ENTER, h: sym}
+  - {t: ␣, h: num}
+  - {t: ⌦, h: fun}
   nav:
   - ''
   - ''
@@ -129,7 +129,7 @@ layers:
   - Right Click
   - Left Click
   - Middle Click
-  '3':
+  button:
   - ''
   - UNDO
   - CUT
@@ -155,7 +155,7 @@ layers:
   - Ctrl
   - ''
   - ''
-  - {t: ▽, type: trans}
+  - {type: held}
   - CUT
   - COPY
   - PASTE
@@ -172,3 +172,175 @@ layers:
   - Right Click
   - Left Click
   - Middle Click
+  media:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Ctrl
+  - Alt
+  - Shift
+  - Gui
+  - ''
+  - ''
+  - PREVIOUS
+  - VOLUME DOWN
+  - VOLUME UP
+  - NEXT
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - ''
+  - {type: held}
+  - ''
+  - ''
+  - STOP
+  - PLAY PAUSE
+  - MUTE
+  num:
+  - ''
+  - '['
+  - '7'
+  - '8'
+  - '9'
+  - ']'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ;
+  - '4'
+  - '5'
+  - '6'
+  - '='
+  - ''
+  - Gui
+  - Shift
+  - Alt
+  - Ctrl
+  - ''
+  - ''
+  - '`'
+  - '1'
+  - '2'
+  - '3'
+  - \
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - .
+  - '0'
+  - '-'
+  - ''
+  - {type: held}
+  - ''
+  sym:
+  - ''
+  - '{'
+  - '&'
+  - '*'
+  - '{'
+  - '}'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ':'
+  - $
+  - '%'
+  - ^
+  - +
+  - ''
+  - Gui
+  - Shift
+  - Alt
+  - Ctrl
+  - ''
+  - ''
+  - '~'
+  - '!'
+  - '@'
+  - '#'
+  - '|'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - (
+  - )
+  - _
+  - {type: held}
+  - ''
+  - ''
+  fun:
+  - ''
+  - F12
+  - F7
+  - F8
+  - F9
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - F11
+  - F4
+  - F5
+  - F6
+  - ''
+  - ''
+  - Gui
+  - Shift
+  - Alt
+  - Ctrl
+  - ''
+  - ''
+  - F10
+  - F1
+  - F2
+  - F3
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - APPLICATION
+  - ␣
+  - ↹
+  - ''
+  - ''
+  - {type: held}
