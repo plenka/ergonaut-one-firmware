@@ -20,3 +20,5 @@ jobs:
       amend_commit: true
       draw_args: "ergonaut_one:'-k corne_rotated -l LAYOUT_split_3x6_3'"
       json_path: keymap-drawer/layouts
+    permissions:
+      contents: write
