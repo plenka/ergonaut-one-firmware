@@ -1,42 +1,42 @@
 layout: {zmk_keyboard: ergonaut_one}
 layers:
   BASE:
-  - ''
+  - ']'
   - Q
   - W
-  - F
-  - P
-  - B
-  - J
-  - L
-  - U
+  - E
+  - R
+  - T
   - Y
-  - ''''
-  - ''
-  - ''
+  - U
+  - I
+  - O
+  - P
+  - '['
+  - '`'
   - {t: A, h: Ctrl}
-  - {t: R, h: LEFT ALT}
-  - {t: S, h: LEFT SHIFT}
-  - {t: T, h: LEFT COMMAND}
+  - {t: S, h: LEFT ALT}
+  - {t: D, h: LEFT SHIFT}
+  - {t: F, h: LEFT COMMAND}
   - G
-  - M
-  - {t: N, h: RIGHT COMMAND}
-  - {t: E, h: RIGHT SHIFT}
-  - {t: I, h: RIGHT ALT}
-  - {t: O, h: RIGHT CONTROL}
-  - ''
-  - ''
+  - H
+  - {t: J, h: RIGHT COMMAND}
+  - {t: K, h: RIGHT SHIFT}
+  - {t: L, h: RIGHT ALT}
+  - {t: ;, h: RIGHT CONTROL}
+  - ''''
+  - '-'
   - {t: Z, h: button}
   - X
   - C
-  - D
   - V
-  - K
-  - H
+  - B
+  - N
+  - M
   - ','
   - .
   - {t: /, h: button}
-  - ''
+  - \
   - {t: ESCAPE, h: media}
   - {t: BACKSPACE, h: nav}
   - {t: ↹, h: mouse}
