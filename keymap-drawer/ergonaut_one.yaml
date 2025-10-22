@@ -69,10 +69,10 @@ layers:
   - →
   - ''
   - ''
-  - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - ''
   - Insert
   - Home
@@ -112,10 +112,10 @@ layers:
   - Mouse →
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - ''
   - ''
   - Scroll ←
@@ -198,10 +198,10 @@ layers:
   - NEXT
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - ''
   - ''
   - BT 1
