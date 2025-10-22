@@ -69,10 +69,10 @@ layers:
   - →
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - UNDO
+  - CUT
+  - COPY
+  - PASTE
   - ''
   - Insert
   - Home
