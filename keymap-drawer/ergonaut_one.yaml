@@ -173,18 +173,18 @@ layers:
   - Left Click
   - Middle Click
   media:
+  - Boot
   - ''
   - ''
   - ''
   - ''
   - ''
+  - BT CLR
   - ''
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - ''
+  - Boot
   - ''
   - Ctrl
   - Alt
@@ -203,11 +203,11 @@ layers:
   - Gui+C
   - Gui+V
   - ''
-  - ''
   - BT 1
   - BT 2
   - BT 3
   - BT 4
+  - BT 5
   - ''
   - {type: held}
   - ''
